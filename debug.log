@@ -1,2 +1,4 @@
 [0326/151923.145:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Users\ANATOR~1.GON\AppData\Local\Temp\karma-98206057\Crashpad: The system cannot find the path specified. (0x3)
 [0326/152152.972:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Users\ANATOR~1.GON\AppData\Local\Temp\karma-29456705\Crashpad: The system cannot find the path specified. (0x3)
+[0327/093201.855:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Users\ANATOR~1.GON\AppData\Local\Temp\karma-95549368\Crashpad: The system cannot find the path specified. (0x3)
+[0327/093309.121:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Users\ANATOR~1.GON\AppData\Local\Temp\karma-76615826\Crashpad: The system cannot find the path specified. (0x3)
